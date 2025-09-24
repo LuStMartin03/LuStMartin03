@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Lenguajes y herramientas
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,py,css,html,tailwind,flask,js,ts,nodejs,express,mysql,sqlite,postgres,prisma,git,postman,bash,linux,ps&perline=10" />
+  </a>
+</p>
