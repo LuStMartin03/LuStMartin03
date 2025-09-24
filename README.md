@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Lucía Saint Martin
 <!--
 **LuStMartin03/LuStMartin03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Estudiante de Ciencia de Datos en la Universidad de Buenos Aires con formación técnica en informática. Me interesa el desarrollo backend, bases de datos y metodologías ágiles. Busco aplicar y ampliar mis conocimientos en entornos colaborativos, con foco en buenas prácticas de programación y testing.
+---
 ## Lenguajes y herramientas
 <p align="left">
   <a href="https://skillicons.dev">
