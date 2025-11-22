@@ -7,13 +7,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 -->
-- **Técnica en Computadoras** (último año de secundaria)  
-- Estudiante del **CBC de Ingeniería en Datos (UBA)**
+- **Técnica en Computadoras** 
+- Estudiante del **CBC de Ingeniería en Informatica (UBA)**
 - ![Profile views](https://komarev.com/ghpvc/?username=LuStMartin03&color=blue)
 - ![GitHub followers](https://img.shields.io/github/followers/LuStMartin03?style=social)
 
 ## Un poco sobre mi
-Actualmente estoy terminando la secundaria donde recibire mi titulo de Tecnica en Computadoras, mientras simultaneamente estoy haciendo el CBC para la carrera Ingenieria de datos. Me interesa el desarrollo backend, frontend y bases de datos. Busco aplicar y ampliar mis conocimientos en entornos colaborativos. Me desempeño trabajando con metodologías agiles.
+Actualmente estoy terminando la secundaria donde recibire mi titulo de Tecnica en Computadoras, mientras simultaneamente estoy haciendo el CBC para la carrera Ingeniería en Informática. Me interesa el desarrollo backend, frontend y bases de datos. Busco aplicar y ampliar mis conocimientos en entornos colaborativos. Me desempeño trabajando con metodologías agiles.
 
 ## Lenguajes y herramientas
 <p align="start">
@@ -24,6 +24,27 @@ Actualmente estoy terminando la secundaria donde recibire mi titulo de Tecnica e
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuStMartin03&layout=compact&theme=radical" alt="Top Langs" />
   </p>
 </p>
+
+## Mis mejores proyectos
+### Glow Studio
+Pagina web que recomienda productos de cuidado de la piel segun el tipo de piel del usuario. Este proyecto academico grupal cuanta con una base de datos, backend y frontend.
+``https://github.com/valencarera1/Tp2-valen-lu``
+
+### Sistema de gestión de restaurantes
+API que permite la gestion de reservas y pedidos de un restaurante. Contiene la logica de admin y user separadas. Cuenta con una base de datos (SQLite) y el backend.
+``https://github.com/LuStMartin03/Sistema-de-gestion-para-restaurante``
+
+### Configuración DHCP
+Proyecto de investigacion e implementacion (en Packet Tracer) del protocolo de red DHCP.
+``https://github.com/LuStMartin03/Configuracion-DHCP``
+
+### Sistema de reservas de turnos
+Este proyecto sigue en proceso. Es un proyecto personal e individual que gestiona las reservas de turnos para un salon de belleza. Va a contar con su dase de datos, backend y frontend.
+``https://github.com/LuStMartin03/Sistema-de-reserva-de-turnos``
+
+### Servidor Web con WireGuard + Apache2
+En este proyecto de documentacion academico en parejas levantamos un servidor web con: WireGuard + Apache.
+``https://github.com/valencarera1/Tp2-valen-lu``
 
 ## Cómo contactarme
 - LinkedIn: ``https://www.linkedin.com/in/lucia-saint-martin/``
