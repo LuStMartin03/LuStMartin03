@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ![GitHub followers](https://img.shields.io/github/followers/LuStMartin03?style=social)
 
 ## Un poco sobre mi
-Actualmente estoy terminando la secundaria donde recibire mi titulo de Tecnica en Computadoras, mientras simultaneamente estoy haciendo el CBC para la carrera Ingeniería en Informática. Me interesa el desarrollo backend, frontend y bases de datos. Busco aplicar y ampliar mis conocimientos en entornos colaborativos. Me desempeño trabajando con metodologías agiles.
+Termine la secundaria donde recibí mi titulo de Técnica en Computadoras, y actualmente estoy haciendo el CBC para la carrera Ingeniería en Informática en la UBA. Me interesa el desarrollo backend, frontend y bases de datos. Busco aplicar y ampliar mis conocimientos en entornos colaborativos. Me desempeño trabajando con metodologías agiles.
 
 ## Lenguajes y herramientas
 <p align="start">
