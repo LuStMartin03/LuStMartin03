@@ -22,7 +22,7 @@ Termine la secundaria donde recibí mi titulo de Técnica en Computadoras, y act
   </a>
 </p>
 
-## Mis mejores proyectos
+## Mis proyectos
 ### Sistema de gestión de restaurantes
 API que permite la gestion de reservas y pedidos de un restaurante. Contiene la logica de admin y user separadas. Cuenta con una base de datos (SQLite) y el backend.
 ``https://github.com/LuStMartin03/Sistema-de-gestion-para-restaurante``
