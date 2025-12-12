@@ -20,16 +20,9 @@ Actualmente estoy terminando la secundaria donde recibire mi titulo de Tecnica e
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,cpp,py,css,html,tailwind,flask,js,ts,nodejs,express,mysql,sqlite,postgres,prisma,git,postman,bash,linux,ps&perline=10" />
   </a>
-  <p align="start">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuStMartin03&layout=compact&theme=radical" alt="Top Langs" />
-  </p>
 </p>
 
 ## Mis mejores proyectos
-### Glow Studio
-Pagina web que recomienda productos de cuidado de la piel segun el tipo de piel del usuario. Este proyecto academico grupal cuanta con una base de datos, backend y frontend.
-``https://github.com/valencarera1/Tp2-valen-lu``
-
 ### Sistema de gestión de restaurantes
 API que permite la gestion de reservas y pedidos de un restaurante. Contiene la logica de admin y user separadas. Cuenta con una base de datos (SQLite) y el backend.
 ``https://github.com/LuStMartin03/Sistema-de-gestion-para-restaurante``
@@ -39,7 +32,7 @@ Proyecto de investigacion e implementacion (en Packet Tracer) del protocolo de r
 ``https://github.com/LuStMartin03/Configuracion-DHCP``
 
 ### Sistema de reservas de turnos
-Este proyecto sigue en proceso. Es un proyecto personal e individual que gestiona las reservas de turnos para un salon de belleza. Va a contar con su dase de datos, backend y frontend.
+Proyecto en Desarrollo: Es un proyecto personal e individual que gestiona las reservas de turnos para un salón de belleza. Va a contar con su dase de datos, backend y frontend.
 ``https://github.com/LuStMartin03/Sistema-de-reserva-de-turnos``
 
 ### Servidor Web con WireGuard + Apache2
