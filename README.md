@@ -25,7 +25,8 @@ Termine la secundaria donde recibí mi titulo de Técnica en Computadoras, y act
 ## Mis proyectos
 ### Glow Studio
 Glow Studio es una aplicación web de recomendaciones personalizadas de productos de skincare basada en el análisis del tipo de piel del usuario. La plataforma conecta a los usuarios con productos reales de cuidado de la piel mediante integración con APIs de tiendas especializadas, guiándolos hacia las opciones más adecuadas para sus necesidades específicas.
-``https://github.com/Memolxz/glow-studio``
+- repositorio: ``https://github.com/Memolxz/glow-studio``
+- pagina web: ``https://glow-studio-sand.vercel.app/home``
 
 ### Sistema de gestión de restaurantes
 API que permite la gestion de reservas y pedidos de un restaurante. Contiene la logica de admin y user separadas. Cuenta con una base de datos (SQLite) y el backend.
