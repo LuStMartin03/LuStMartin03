@@ -1,26 +1,9 @@
 # Lucía Saint Martin
-<!--
-**LuStMartin03/LuStMartin03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--->
-- **Técnica en Computadoras** 
-- Estudiante del **CBC de Ingeniería en Informatica (UBA)**
+- **Técnica en Computadoras**: Ins. Ind. Luis A. Huergo 
+- **Ingeniería en Informatica**: UBA
 - ![Profile views](https://komarev.com/ghpvc/?username=LuStMartin03&color=blue)
 - ![GitHub followers](https://img.shields.io/github/followers/LuStMartin03?style=social)
-
-## Un poco sobre mi
-Termine la secundaria donde recibí mi titulo de Técnica en Computadoras, y actualmente estoy haciendo el CBC para la carrera Ingeniería en Informática en la UBA. Me interesa el desarrollo backend, frontend y bases de datos. Busco aplicar y ampliar mis conocimientos en entornos colaborativos. Me desempeño trabajando con metodologías agiles.
-
-## Lenguajes y herramientas
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,py,css,html,tailwind,flask,js,ts,nodejs,express,mysql,sqlite,postgres,prisma,git,postman,bash,linux,ps&perline=10" />
-  </a>
-</p>
 
 ## Mis proyectos
 ### Glow Studio
@@ -44,6 +27,6 @@ Proyecto en Desarrollo: Es un proyecto personal e individual que gestiona las re
 En este proyecto de documentacion academico en parejas levantamos un servidor web con: WireGuard + Apache.
 ``https://github.com/valencarera1/Tp2-valen-lu``
 
-## Cómo contactarme
-- LinkedIn: ``https://www.linkedin.com/in/lucia-saint-martin/``
-- Mail: ``lucia.st.martin@gmail.com``
+
+LinkedIn: ``https://www.linkedin.com/in/lucia-saint-martin/``
+Mail: ``lucia.st.martin@gmail.com``
