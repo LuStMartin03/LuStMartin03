@@ -1,9 +1,7 @@
 # Lucía Saint Martin
 
 - **Técnica en Computadoras**: Ins. Ind. Luis A. Huergo 
-- **Ingeniería en Informatica**: UBA
-- ![Profile views](https://komarev.com/ghpvc/?username=LuStMartin03&color=blue)
-- ![GitHub followers](https://img.shields.io/github/followers/LuStMartin03?style=social)
+- **Ingeniería en Informatica**: Universidad de Buenos Aires
 
 ## Mis proyectos
 ### Glow Studio
